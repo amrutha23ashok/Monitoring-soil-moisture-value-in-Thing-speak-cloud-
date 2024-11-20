@@ -1,5 +1,5 @@
-## NAME : DINESH KUMAR R
-## REG NO : 212222110010
+## NAME : AMRUTHA S A
+## REG NO : 212222110004
 # EX-05 Monitoring-soil-moisture-value-in-Thing-speak-cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
 
